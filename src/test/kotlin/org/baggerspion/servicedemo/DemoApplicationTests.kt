@@ -1,4 +1,4 @@
-package com.wayfair.servicedemo
+package org.baggerspion.servicedemo
 
 import org.junit.Test
 import org.junit.runner.RunWith
