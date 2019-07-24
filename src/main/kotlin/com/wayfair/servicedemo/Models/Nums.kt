@@ -1,4 +1,4 @@
-package com.wayfair.servicedemo
+package org.baggerspion.servicedemo
 
 import com.fasterxml.jackson.annotation.JsonCreator
 
