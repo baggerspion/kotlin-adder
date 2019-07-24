@@ -1,5 +1,5 @@
 # kotlin-adder
-A simply Kotlin-based microservice which will add two numbers together.
+A simple Kotlin-based microservice which will add two numbers together.
 
 - To build: `./gradlew bootJar`
 - To build/run: `./gradlew bootRun`
